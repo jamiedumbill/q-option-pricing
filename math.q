@@ -6,7 +6,6 @@
 /### Title       : Mathematical functions
 /### Type        : Library
 /### Author      : Jamie Dumbill
-/### Location    : q/lib/q/math.q
 /### Description : General mathematical functions
 /###############################################################################
 

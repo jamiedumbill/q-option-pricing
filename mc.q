@@ -6,7 +6,6 @@
 /### Title       : Monte Carlo option pricing functions
 /### Type        : Library
 /### Author      : Jamie Dumbill
-/### Location    : q/lib/q/mc.q
 /### Description : Functions to calculate call and put option price using
 /###               monte carlo simulation
 /###############################################################################

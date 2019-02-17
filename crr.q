@@ -2,7 +2,6 @@
 /### Title       : Binomial tree pricing functions
 /### Type        : Library
 /### Author      : A Developer
-/### Location    : q/var/example.q
 /### Description : Cox-Ross-Rubenstein binomial model for calculating call and
 /###               put option price
 /###############################################################################

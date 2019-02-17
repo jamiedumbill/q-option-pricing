@@ -2,7 +2,6 @@
 /### Title       : Volatility functions
 /### Type        : Library
 /### Author      : Jamie Dumbill
-/### Location    : q/lib/q/vol.q
 /### Description : Calculation of various types of volatility
 /###############################################################################
 

@@ -2,7 +2,6 @@
 /### Title       : Retrieve price information
 /### Type        : Library
 /### Author      : Jamie Dumbill
-/### Location    : q/lib/q/quote.q
 /### Description : Functions to retrive price information from yahoo finance
 /###############################################################################
 

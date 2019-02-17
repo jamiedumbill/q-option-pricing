@@ -2,7 +2,6 @@
 /### Title       : Black-Scholes option pricing and sensitivities
 /### Type        : Library
 /### Author      : Jamie Dumbill
-/### Location    : q/lib/q/bs.q
 /### Description : Functions to calculate option price and sensitivities for
 /###               both call and put options
 /###############################################################################

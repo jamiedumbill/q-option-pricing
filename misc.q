@@ -2,7 +2,6 @@
 /### Title       : Miscellaneous functions
 /### Type        : Library
 /### Author      : Jamie Dumbill
-/### Location    : q/lib/q/misc.q
 /### Description : An example function to show intended file structure and also 
 /###               to show code consistancy
 /###############################################################################
