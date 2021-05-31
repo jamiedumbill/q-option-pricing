@@ -39,3 +39,13 @@ q).mc.c.price[420;420.04;0.8;0.17;0.05;1000]
 q).crr.c.price[420;420.04;0.8;0.17;0.05;1000]
 34.01666
 ```
+
+## HTTP
+
+Start a web server on port `5000`
+
+```q
+\p 5000
+```
+
+![Using http server](q-option-pricing-http.gif)
